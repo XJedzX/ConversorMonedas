@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42dcf2d0-41e7-40f1-9d58-ccb4a93bb55d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conversor de Monedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buscarmoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Convertir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-    </list>
+    <list default="true" id="42dcf2d0-41e7-40f1-9d58-ccb4a93bb55d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +37,9 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Jedz/Downloads/ConversorMonedas-main/ConversorMonedas-main",
+    "last_opened_file_path": "C:/Users/Jedz/Desktop/Alura2/Conversor_de_Monedas",
     "onboarding.tips.debug.path": "C:/Users/Jedz/Desktop/Nueva carpeta/Conversor de Monedas/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
