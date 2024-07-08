@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1 align="center">
     Conversor de Monedas
@@ -10,15 +11,11 @@
 </div>
 
 
-https://img.shields.io/badge/STATUS-COMPLETADO-green
+![Status](https://img.shields.io/badge/STATUS-COMPLETADO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/XJedzX?style=social)
 
+
 ##Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
-
 *[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
