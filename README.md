@@ -1,7 +1,18 @@
-<h1 align="center"> Conversor de Monedas </h1>
-![Imagen1](https://github.com/XJedzX/ConversorMonedas/assets/163696205/0d89a4d7-ad9d-4166-a1c5-5ccca7a952da)
+<div align="center">
+  <h1 align="center">
+    Conversor de Monedas
+    <br />
+    <br />
+    
+![CONVERSOR.png](https://i.postimg.cc/vH8wwFKC/CONVERSOR-3.png)
+
+  </h1>
+</div>
+
+
 https://img.shields.io/badge/STATUS-COMPLETADO-green
 ![GitHub Org's stars](https://img.shields.io/github/stars/XJedzX?style=social)
+
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
