@@ -15,23 +15,18 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/XJedzX?style=social)
 
 
-##Índice
-*[Índice](#índice)
-
 *[Descripción del proyecto](#descripción-del-proyecto)
+ es una aplicación desarrollada en IntelliJ IDEA que permite a los usuarios convertir montos entre diferentes monedas en tiempo real utilizando las tasas de cambio actuales. El proyecto hace uso de la API de ExchangeRateAPI para obtener las tasas de cambio más recientes y precisas.
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
