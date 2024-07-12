@@ -16,7 +16,7 @@
 
 
 ## DESCRIPCIÓN DEL PROYECTO
- es una aplicación desarrollada en IntelliJ IDEA que permite a los usuarios convertir montos entre diferentes monedas en tiempo real utilizando las tasas de cambio actuales. El proyecto hace uso de la API de ExchangeRateAPI para obtener las tasas de cambio más recientes y precisas.
+Es una aplicación desarrollada en IntelliJ IDEA que permite a los usuarios convertir montos entre diferentes monedas en tiempo real utilizando las tasas de cambio actuales. El proyecto hace uso de la API de ExchangeRateAPI para obtener las tasas de cambio más recientes y precisas.
 
 
 
